@@ -1,0 +1,10 @@
+.navbar{
+    width: 100vw;
+    height: 7vh;
+    background-color: black;
+}
+.container{
+    width: 100vw;
+    height: 60vh;
+    background-color: rgb(69, 102, 102);
+}
